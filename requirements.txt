@@ -1,4 +1,3 @@
 Flask
-ballchasing
 gunicorn
 requests

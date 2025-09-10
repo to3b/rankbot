@@ -1,2 +1,4 @@
-flask
-requests
+Flask==2.3.3
+ballchasing==0.2.1
+gunicorn==21.2.0
+requests==2.31.0
